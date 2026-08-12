@@ -20,4 +20,8 @@ jupyter lab notebooks/model_monitoring.ipynb
 
 ## Status
 
-- **Task 1** — Dataset loading and data understanding (in notebook)
+- **Task 1** — Dataset loading and data understanding
+- **Task 2** — Preprocessing and train/test split
+- **Task 3** — Baseline Random Forest model
+- **Task 4** — Baseline evaluation (metrics + figures)
+- Tasks 5–9 — pending
